@@ -1,1 +1,30 @@
 /*  your css code here. If applicable */
+.cir1{
+	width:100px;
+	height:100px;
+	background-color:green;
+	border-radius:50%;
+}
+.cir2{
+	width:100px;
+	height:100px;
+	background-color:yellow;
+	border-radius:50%;
+}
+.cir3{
+	width:100px;
+	height:100px;
+	background-color:red;
+	border-radius:50%;
+}
+.container{
+	background-color:grey;
+	height:190px;
+	border:3px solid black;
+	border-radius:70px;
+	display:flex;
+	justify-content: center;
+    align-items: center;
+	gap:20px;
+}
+
